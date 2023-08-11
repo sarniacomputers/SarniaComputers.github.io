@@ -1,0 +1,145 @@
+<!DOCTYPE HTML>
+<!--
+	ZeroFour by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Sarnia Computers</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+	</head>
+	<body class="homepage is-preload">
+		<div id="page-wrapper">
+
+			<!-- Header -->
+				<div id="header-wrapper">
+					<div class="container">
+
+						<!-- Header -->
+							<header id="header">
+								<div class="inner">
+
+									<!-- Logo -->
+										<h1><a href="index.html" id="logo">Sarnia Computers</a></h1>
+
+									<!-- Nav -->
+										<nav id="nav">
+											<ul>
+												<li class="current_page_item"><a href="index.html">Home</a></li>
+												
+												<li><a href="">Proudly Serving Sarnia and Area</a></li>
+											</ul>
+										</nav>
+
+								</div>
+							</header>
+
+						<!-- Banner -->
+							<div id="banner">
+								<h2><strong>Sarnia Computers:</strong> Computer Repair and Service
+								<br />
+								 <a href="https://www.google.com/search?newwindow=1&rlz=1C1CHBF_enCA835CA835&sxsrf=AB5stBiTg5P-APXky-AFsGW-HQO_b9p_Aw:1691590164935&q=sarnia+computers&npsic=0&rflfq=1&rldoc=1&rllag=42970351,-82371642,2018&tbm=lcl&sa=X&ved=2ahUKEwjDsIu34M-AAxVhMDQIHbe8BI8QtgN6BAgcEAE&biw=1600&bih=751&dpr=1#">Sarnia, Ontario, Canada</a></h2>
+								<p>Have a Computer or Networking Concern? Interested in Building a Custom PC?</p>
+								<a href="https://www.google.com/search?q=sarnia+computers&rlz=1C1CHBF_enCA835CA835&oq=sarnia+computers&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MggIARAAGBYYHjIICAIQABgWGB4yCggDEAAYhgMYigUyBggEEEUYQDIGCAUQRRg8MgYIBhBFGD0yBggHEEUYPNIBCDUxOTdqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8#rlimm=12999590510429383778" class="button large icon solid fa-check-circle">Contact Us Now!</a>
+							</div>
+
+					</div>
+				</div>
+
+			
+			<!-- Footer Wrapper -->
+				<div id="footer-wrapper">
+					<footer id="footer" class="container">
+						<div class="row">
+							<div class="col-3 col-6-medium col-12-small">
+
+								<!-- Links -->
+									<section>
+										<h2>Quick Software Links</h2>
+										<ul class="divided">
+											<li><a href="#">Bit Defender</a></li>
+											<li><a href="#">CPU-Z</a></li>
+											<li><a href="#">GPU-Z</a></li>
+											<li><a href="#">Prime95</a></li>
+											<li><a href="#">AIDA64</a></li>
+											<li><a href="#">CoreTemp</a></li>
+											<li><a href="#">HWiNFO</a></li>
+											<li><a href="#">Remote Connection</a></li>
+											<li><a href="#">Brave Browser?</a></li>
+										</ul>
+									</section>
+
+							</div>
+							<div class="col-3 col-6-medium col-12-small">
+
+
+							
+
+							</div>
+							<div class="col-6 col-12-medium imp-medium">
+
+								<!-- About -->
+									<section>
+										<h2><strong></strong>Sarnia Computers: Repair & Service</h2>
+										<p>Hi! Sarnia Computers is happy to offer the following services: Computer and operating system repair, network and router setup and installation, data backup, data transfer, smartphone migration, PC and electronics recycling, custom built PCs, hacked account rescue, VOIP phone services, and many others! Please contact us to speak with a technician today.</p>
+									</section>
+
+								<!-- Contact -->
+									<section>
+										<h2>Get in touch</h2>
+										<div>
+											<div class="row">
+												<div class="col-6 col-12-small">
+													<dl class="contact">
+														<dt>Twitter</dt>
+														<dd><a href="#">@SarniaComputers</a></dd>
+														<dt>Facebook</dt>
+														<dd><a href="#">facebook.com/SarniaComputers</a></dd>
+														<dt>WWW</dt>
+														<dd><a href="#">SarniaComputers.com</a></dd>
+														<dt>Email</dt>
+														<dd><a href="#">ComputersSarnia@gmail.com</a></dd>
+													</dl>
+												</div>
+												<div class="col-6 col-12-small">
+													<dl class="contact">
+														<dt>Address</dt>
+														<dd>
+															439 Palmerston St. S. Unit 4<br />
+															Sarnia, ON, CA N7T 3P4<br />
+														</dd>
+														<dt>Phone</dt>
+														<dd>(226) 776-3888</dd>
+													</dl>
+												</div>
+											</div>
+										</div>
+									</section>
+
+							</div>
+							<div class="col-12">
+								<div id="copyright">
+									<ul class="menu">
+										<li>&copy; Sarnia Computers. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</footer>
+				</div>
+
+		</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.dropotron.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
